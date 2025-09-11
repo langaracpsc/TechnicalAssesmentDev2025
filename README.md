@@ -107,7 +107,6 @@ Build a cohesive voting app that “just works”—functional dashboard, pleasa
   - Returns clean errors for invalid/duplicate submissions.
 
 - **Data Workflow**
-  - Demonstrate a clean workflow: submit votes → view stats.
   - Handles realistic edge cases without breaking (e.g., multiple users voting for the same candidate, odd data formats, missing values).
 
 - **Documentation**
@@ -137,7 +136,6 @@ Build a cohesive voting app that “just works”—functional dashboard, pleasa
 ---
 
 
----
 
 ## Notes
 
@@ -145,5 +143,14 @@ Build a cohesive voting app that “just works”—functional dashboard, pleasa
 - Focus strongly on reliability, UX (if applicable), bulk data handling, and comprehensive documentation.
 - Use any modern stack or technology.
 - Deliverables should be easy to evaluate for code quality, clarity, and robustness.
+
+---
+
+## Delivery Method
+
+- Set a repo on github with your code.
+- Set a README.md with all the docs
+- And specify on the repo description what option you have choosen
+
 
 

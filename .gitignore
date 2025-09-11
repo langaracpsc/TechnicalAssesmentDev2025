@@ -8,7 +8,7 @@ package-lock.json
 *.sqlite3
 
 # Data files
-data/
+
 *.csv
 *.json
 !package.json
