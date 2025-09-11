@@ -1,8 +1,12 @@
 # Technical Assessment: Voting Application Dashboard
 
+## AI DISCLAIMER
+YOU are totally allowed to use AI no restraints. The work needs to be good though do not deliver a full vibe coded app. We are evaluating QUALITY over Quantity.
+
+
 ## Project Overview
 
-Develop a web-based Voting Application Dashboard. This app provides a basic voting platform with a dashboard for visualizing real-time or aggregated results. No user roles or authentication are required; all users share the same voting interface. The assessment can be completed in one of three ways—frontend-only, backend-focused, or balanced full-stack—depending on your skillset and preference[web:16].
+Develop a web-based Voting Application Dashboard. This app provides a basic voting analysis platform with a dashboard for visualizing real-time or aggregated results. No user roles or authentication are required; all users share the same interface. The assessment can be completed in one of three ways—frontend-only, backend-focused, or balanced full-stack—depending on your skillset and preference[web:16].
 
 ---
 
@@ -69,11 +73,8 @@ Deliver a high-performance backend capable of storing, processing, and analyzing
   - Document or supply scripts to **stress-test** with at least 100,000 records:
     - Measure performance for both ingestion and statistics retrieval.
 
-- **Minimal Frontend**
-  - Basic HTML/JS or framework-based page for:
-    - Bulk CSV/JSON dataset upload (or manual entry).
-    - Viewing dashboard analytics from backend responses.
-  - No need for advanced styling or navigation.
+- **NO Frontend**
+    Here just focus on delivering a great API to fetch
 
 - **Documentation**
   - API reference with sample requests/responses.
@@ -129,9 +130,9 @@ Build a cohesive voting app that “just works”—functional dashboard, pleasa
 - **Demo Dataset**: Ready-to-use JSON or CSV file (10,000+ votes recommended). This Dataset will be given to you 
 - **Commit History & Comments**: Readable history, good inline documentation.
 - **Bonus Features**:
-  - Data import/export (e.g., upload/load/download CSV/JSON).
-  - Dashboard export (charts as image/PDF).
-  - Simple automated tests (unit/integration).
+    Goes always beyond with the dashboard.
+
+  
 
 ---
 
