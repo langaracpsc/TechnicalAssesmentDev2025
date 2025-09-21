@@ -94,6 +94,8 @@ Deliver a high-performance backend capable of storing, processing, and analyzing
 
 ### Goal
 
+Remember, do NOT build a simple like yes or no ratio. We are still expecting a degree of dedication to multiple endpoints, the capability of delivering an application that feels complete. You need to implement beyond one feature for the dashboard.
+
 Build a cohesive voting app that “just works”—functional dashboard, pleasant user interactions, and solid backend logic. No need for standout UI/UX or advanced backend protection; focus on usability and completeness.
 
 ### Requirements
